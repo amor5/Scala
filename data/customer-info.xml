@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer id="1001" firstname="Stan" lastname="Smith">
+
+  <address number="7010" street="Washington Street"
+  		city="SFO" state="CA" zip="12341" country="USA"	 />
+
+  <email>noname@gmail.com</email>
+  <email>noname@hotmail.com</email>
+  <email>noname@justkidding.com</email>
+  
+  <phone>123-456-7890</phone>
+</customer>

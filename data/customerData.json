@@ -1,0 +1,69 @@
+[{
+		     "firstName": "John",
+		     "lastName": "Smith",
+		     "age": 25,
+		     "address":
+		     {
+		         "streetAddress": "21 2nd Street",
+		         "city": "New York",
+		         "state": "NY",
+		         "postalCode": "10021"
+		     },
+		     "phoneNumber":
+		     [
+		         {
+		           "phoneType": "home",
+		           "number": "212 555-1234"
+		         },
+		         {
+		           "phoneType": "fax",
+		           "number": "646 555-4567"
+		         }
+		     ]
+}
+{
+		     "firstName": "Steve",
+		     "lastName": "McCain",
+		     "age": 65,
+		     "address":
+		     {
+		         "streetAddress": "988, 1st Ave",
+		         "city": "San Francisco",
+		         "state": "CA",
+		         "postalCode": "93302"
+		     },
+		     "phoneNumber":
+		     [
+		         {
+		           "phoneType": "home",
+		           "number": "415 555-1234"
+		         },
+		         {
+		           "phoneType": "fax",
+		           "number": "415 555-4567"
+		         }
+		     ]
+}
+{
+		     "firstName": "Shelly",
+		     "lastName": "Roberts",
+		     "age": 42,
+		     "address":
+		     {
+		         "streetAddress": "200, Washington Road",
+		         "city": "Los Angeles",
+		         "state": "CA",
+		         "postalCode": "93302"
+		     },
+		     "phoneNumber":
+		     [
+		         {
+		           "phoneType": "home",
+		           "number": "838 555-1234"
+		         },
+		         {
+		           "phoneType": "fax",
+		           "number": "838 555-4567"
+		         }
+		     ]
+}]
